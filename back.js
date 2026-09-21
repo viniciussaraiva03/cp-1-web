@@ -1,5 +1,3 @@
-// Sistema de Cadastro de Vinhos - Vinheira
-
 var vinhos = [];
 
 // Função principal de cadastro
