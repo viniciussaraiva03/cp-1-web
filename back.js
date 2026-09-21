@@ -23,3 +23,4 @@ function cadastrarVinho() {
   };    
 
    alert("Cadastro realizado! Veja os detalhes no console.");
+  alert('a seguir veja os detalhes do vinho no console');
